@@ -26,7 +26,6 @@ The actual user position is fixed at:
 | File | Description |
 |---|---|
 | `gps_localization.tex` | Source code for the GPS localization experiment |
-| `CS724_Assignment1_Report.pdf` | Detailed report of the experiment and results |
 | `README.md` | Documentation and instructions |
 
 ---
